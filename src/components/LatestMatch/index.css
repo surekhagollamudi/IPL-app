@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.match-container {
+  background-color: #1e293b;
+}
+.head{
+    color:white
+}
+.date-container {
+    display:flex
+}

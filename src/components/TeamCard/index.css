@@ -1,0 +1,27 @@
+.list {
+  border-style: solid;
+  background-color: #475569;
+  border-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  align-items: center;
+  min-height: 100px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  justify-content: flex-start;
+}
+.imageUrl {
+  height: 100px;
+  width: 70px;
+}
+.name {
+  color: white;
+  font-family: 'Bree Serif';
+  margin-left: 15px;
+}
+.link-item {
+  text-decoration: none;
+  width: 45%;
+}
